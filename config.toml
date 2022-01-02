@@ -30,7 +30,7 @@ summaryLength = 30
 [params]
   google_analytics_id=""
   homepage_button_link = '/posts'
-  homepage_button_text = 'Read The Docs'
+  homepage_button_text = 'Read Posts'
   homepage_intro = 'A weekly writing project'
   homepage_image = '/images/RNN-image.png'
 
