@@ -17,14 +17,15 @@ When investigating my desire to be approved by others, it is critical to ask who
 I am most concerned with the approval of the people I spend time around. Since I spent so much of my time in an academic environment I want approval from people who also attended expensive educational institutions or who work in higher paying tech / academic jobs. 
 
 Since these opinions are the ones that currently motivate me, I am attracted to working in fields that are less developed. This motivation means that I have a lot of energy / excitement when thinking about projects in less developed fields. When I was doing academic research on machine intelligence I was so energized everyday. That energy derived from feeling like there was a chance that I could actually make a meaningful contribution. It is easier to make a contribution in areas that are less developed for the following reasons.
-	* Often there is less background knowledge and years of studying that is needed to get to the cutting edge of the field 
-	* The methods for doing research are less defined and having a unique approach can be really important 
-	* The rate of progress in the field is quite rapid
+
+* Often there is less background knowledge and years of studying that is needed to get to the cutting edge of the field 
+* The methods for doing research are less defined and having a unique approach can be really important 
+* The rate of progress in the field is quite rapid
 
 Due to this interest of working in newer / less explored fields the topics I am currently most interested in are:
-	* Understanding intelligence (neuroscience, biological systems, synthetic biology, machine learning) 
-	* Designing collective organizations (organizational structure and blockchain governance)
-	* Tools for creation (quantum Computation and creativity tools) 
+* Understanding intelligence (neuroscience, biological systems, synthetic biology, machine learning) 
+* Designing collective organizations (organizational structure and blockchain governance)
+* Tools for creation (quantum Computation and creativity tools) 
 
 - - - -
 
