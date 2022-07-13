@@ -4,7 +4,7 @@ date: 2022-05-06
 weight: 1
 ---
 
-This [project is motivated](https://repeatedgenerator.netlify.app/posts/week_1_why_repeated_generator/) trying to cultivate a writing practice to help make me a sharper thinker. Setting aside time each week to write in a way that is understandable to others helps tighten my ideas. It is also motivated by a future where I have developed a body of work that I can refer back to and which can be shared with others. 
+This [project is motivated](https://repeatedgenerator.netlify.app/posts/week_1_why_repeated_generator/) by trying to cultivate a writing practice to help make me a sharper thinker. Setting aside time each week to write in a way that is understandable to others helps tighten my ideas. It is also motivated by a future where I have developed a body of work that I can refer back to and which can be shared with others. 
 
 Four months into the year, I have published more writing about novel ideas than in any previous year. But I also have struggled to consistently publish pieces. The pieces I have been publishing are quite long, taking a lot of time to complete. Finishing a piece every week requires spending a sizable amount of time working over the weekend. As my weekends have started being filled with other activities, I have struggled to continue publishing pieces. Now feels like a good opportunity to take stock of how this project is going and to make any adjustments that feel necessary.
 
